@@ -1,0 +1,1 @@
+los arrays nos permiten almacenar elementos del mismo tipo o clase
