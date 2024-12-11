@@ -1,0 +1,1 @@
+Los bucles permiten repetir sentencias y bloques de sentencias.
